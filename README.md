@@ -7,6 +7,7 @@ SCSS project from a udemy course, I did the events on click by using JavaScript 
 
 
 ### What I learnd:
+## 
 Compile sass to css using node.js , SCSS variables, SCSS nesting, SCSS mixins, functions , Placeholder selectors and more.
 
 
